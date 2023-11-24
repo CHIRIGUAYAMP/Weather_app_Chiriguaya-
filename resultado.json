@@ -1,0 +1,49 @@
+{
+    "base": "stations",
+    "clouds": {
+        "all": 65
+    },
+    "cod": 200,
+    "coord": {
+        "lat": -0.2299,
+        "lon": -78.5249
+    },
+    "dt": 1699919182,
+    "id": 3652462,
+    "main": {
+        "feels_like": 13.26,
+        "grnd_level": 722,
+        "humidity": 89,
+        "pressure": 1013,
+        "sea_level": 1013,
+        "temp": 13.53,
+        "temp_max": 13.53,
+        "temp_min": 13.53
+    },
+    "name": "Quito",
+    "rain": {
+        "1h": 0.36
+    },
+    "sys": {
+        "country": "EC",
+        "id": 8555,
+        "sunrise": 1699872879,
+        "sunset": 1699916534,
+        "type": 1
+    },
+    "timezone": -18000,
+    "visibility": 3119,
+    "weather": [
+        {
+            "description": "lluvia ligera",
+            "icon": "10n",
+            "id": 500,
+            "main": "Rain"
+        }
+    ],
+    "wind": {
+        "deg": 319,
+        "gust": 0.94,
+        "speed": 0.59
+    }
+}
